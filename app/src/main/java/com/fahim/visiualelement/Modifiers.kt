@@ -1,0 +1,15 @@
+package com.fahim.visiualelement
+
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Column
+import androidx.compose.material.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+
+@Composable
+fun TestModify() {
+    Column(modifier = Modifier.background(Color.Blue)) {
+        Text(text = "test modifiers")
+    }
+}
