@@ -22,11 +22,12 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                   // TestModify()
-                  //  testLayout()
+                    // TestModify()
+                    //  testLayout()
                     //textSizing()
-                   // testText()
-                    testThemeShape()
+                    // testText()
+                    //  testThemeShape()
+                    testImage()
                 }
             }
         }
