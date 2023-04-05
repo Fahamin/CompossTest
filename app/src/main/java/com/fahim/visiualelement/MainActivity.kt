@@ -27,7 +27,12 @@ class MainActivity : ComponentActivity() {
                     //textSizing()
                     // testText()
                     //  testThemeShape()
-                    testImage()
+                    //testImage()
+                    //  testButtons()
+                    //  testDraging()
+                    //testLazyList()
+
+                    alettDialogTest();
                 }
             }
         }
